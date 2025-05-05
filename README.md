@@ -7,7 +7,7 @@
 To execute the tests:
 
 ```shell
-poetry lock --no-update
+poetry install
 poetry run behave
 ```
 
